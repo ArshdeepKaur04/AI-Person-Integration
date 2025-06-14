@@ -7,12 +7,12 @@ This project demonstrates seamless integration of a person into a background sce
 - 'algorithm_documentation.pdf' — Detailed methodology
 - 'visuals/' — Intermediate visual outputs
 
-## How to run shadow detection
-```bash
-python shadow_detection.py
-
 ## Tools Used:
 - OpenCV
 - Matplotlib
 - Photoshop
 - remove.bg
+
+## How to run shadow detection
+```bash
+python shadow_detection.py
