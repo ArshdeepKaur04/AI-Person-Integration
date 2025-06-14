@@ -1,7 +1,7 @@
-# AI Person Integration Project
+# AI Person Integration Project:
 This project demonstrates seamless integration of a person into a background scene with correct lighting, shadow, and color matching using Photoshop, remove.bg, OpenCV, and Matplotlib.
 
-## Files
+## Files:
 - 'final_image.png' — Final image
 - 'shadow_detection.py' — Python code for shadow detection & light estimation
 - 'algorithm_documentation.pdf' — Detailed methodology
@@ -13,6 +13,6 @@ This project demonstrates seamless integration of a person into a background sce
 - Photoshop
 - remove.bg
 
-## How to run shadow detection
+## How to Run Shadow Detection:
 ```bash
 python shadow_detection.py
